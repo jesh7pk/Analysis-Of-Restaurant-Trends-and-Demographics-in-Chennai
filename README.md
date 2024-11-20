@@ -1,5 +1,5 @@
 # Analysis-Of-Restaurant-Trends-and-Demographics-in-Chennai
-## Project Desciprtion
+## Project Description
 This project focuses on predicting restaurant ratings in Chennai by combining restaurant data, like location, cuisine type, and cost, with demographic information, such as literacy rates, sex ratio, and population in different areas. By analyzing these datasets together, we aim to find patterns, such as how the demographics of an area influence the popularity of certain cuisines and the ratings restaurants receive.
 Using machine learning (ML) and deep learning (DL) techniques, we build models that can predict the rating of a restaurant based on its features and the demographic characteristics of its location. These models help us better understand the relationship between restaurant preferences and community traits, offering useful insights for restaurant owners, marketers, and planners to make smarter, data-driven decisions.
 
